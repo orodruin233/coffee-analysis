@@ -15,7 +15,9 @@
 ## Licence
 
 ## Authors
+
 Bingkai
+- leisiyu
 ## Acknowledgements
 
 ## Meeting Notes – Coffee Analysis Training Session
