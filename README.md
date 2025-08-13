@@ -9,14 +9,16 @@
 ## Usage
 
 ## Running Tests
+To run the automated unit tests for this project, navigate to the project root directory and execute:
 
+ pytest
 ## Maintainers
 
 ## Licence
 
 ## Authors
 
-Bingkai
+- Bingkai
 - leisiyu
 ## Acknowledgements
 
