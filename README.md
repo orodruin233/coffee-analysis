@@ -2,6 +2,8 @@
 
 ## Description
 
+This repository details the code used to analyse the simplified\_coffee\_ratings in the data folder. All the analysis is done in analyse-coffee.py file. All the plots are located Plots folder. Prerequisites and installation instructions to reproduce the analysis can be found below.
+
 ## Pre-requisites
 
 ## Installation
@@ -17,7 +19,9 @@
 ## Authors
 
 Bingkai
-- leisiyu
+
+* leisiyu
+
 ## Acknowledgements
 
 ## Meeting Notes – Coffee Analysis Training Session
