@@ -22,9 +22,8 @@ To run the automated unit tests for this project, navigate to the project root d
 
 - Bingkai
 - leisiyu
-- 
-## Acknowledgements 
- - what other projects, software or people should be acknowledged as part of this work?
+
+## Acknowledgements
 
 ## Meeting Notes – Coffee Analysis Training Session
 
