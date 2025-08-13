@@ -10,7 +10,7 @@
 
 ## Running Tests
 To run the automated unit tests for this project, navigate to the project root directory and execute:
- write the comment on each test
+
  pytest
 ## Maintainers
 
