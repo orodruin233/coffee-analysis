@@ -1,4 +1,4 @@
-# coffee-analysis
+# coffee-analysis software
 
 ## Description
 
@@ -15,8 +15,9 @@
 ## Licence
 
 ## Authors
-- leisiyu
 
+Bingkai
+- leisiyu
 ## Acknowledgements
 
 ## Meeting Notes – Coffee Analysis Training Session
