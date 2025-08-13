@@ -17,7 +17,7 @@
 ## Authors
 - leisiyu
 
-## Acknowledgements
+## Acknowledgements - what other projects, software or people should be acknowledged as part of this work?
 
 ## Meeting Notes – Coffee Analysis Training Session
 
