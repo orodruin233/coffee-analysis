@@ -1,4 +1,4 @@
-# coffee-analysis
+# coffee-analysis software
 
 ## Description
 
@@ -16,8 +16,8 @@
 
 ## Authors
 
-disha
-
+Bingkai
+- leisiyu
 ## Acknowledgements
 
 ## Meeting Notes – Coffee Analysis Training Session
